@@ -3,7 +3,7 @@
     'mousemove','mouseenter','mouseleave','mouseover','mouseout',
     'pointermove','pointerenter','pointerleave',
     'focus','blur','focusin','focusout','visibilitychange',
-    'fullscreenchange','resize'
+    'fullscreenchange','resize','webkitvisibilitychange'
   ];
 
   const originalProps = {
